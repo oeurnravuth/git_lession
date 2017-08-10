@@ -2,7 +2,7 @@
 
 <?php
 
-echo 'this is php';
+echo 'this is SupperLocal';
 
 echo 'this is new line';
 
